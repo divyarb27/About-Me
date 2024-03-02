@@ -1,5 +1,5 @@
 
-![34EEEF05-1908-4B4E-B07E-E93F92937ADF](https://github.com/divyarb27/About-Me/assets/161882351/f2565f56-3907-43a7-b9ba-aa5d3d7643d4) width="200" height="400"
+
 
 
 I am an education expert with over 15 years of experience in higher education, specializing in roles such as Learning Designer, Curriculum Developer, Content Developer, New Program Initiator, and Localization Specialist. 
