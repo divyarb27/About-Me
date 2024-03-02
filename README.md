@@ -1,4 +1,4 @@
-<img src="path/to/image.png">(https://app.gemoo.com/share/image-annotation/622681634634203136?codeId=v62plBxYb1NpL&origin=imageurlgenerator&card=622681634407710720)
+<img src="(https://app.gemoo.com/share/image-annotation/622681634634203136?codeId=v62plBxYb1NpL&origin=imageurlgenerator&card=622681634407710720)"
 
 I am an education expert with over 15 years of experience in higher education, specializing in roles such as Learning Designer, Curriculum Developer, Content Developer, New Program Initiator, and Localization Specialist. 
 Some highlights of my career include:
