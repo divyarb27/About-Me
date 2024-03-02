@@ -4,7 +4,7 @@ I am an education expert with over 15 years of experience in higher education, s
 Some highlights of my career include:
 
 - Serving as a Canvas LMS Architect for Educause.
-- Developing and designing courses in Marketing, Organizational Behavior, Management, and Leadership for Focus Eduvation (Nexford University, National University).
+- Developing and designing Marketing, Organizational Behavior, Management, and Leadership courses for Focus Eduvation (Nexford University, National University).
 - Designing courses in Marketing, Finance Management, Project Management, Human Resource Management, and eBusiness for nSight (Northern Arizona University, Pearson).
 - Leading program and curriculum development for the Western Governors University MBA in Marketing.
 - Designing programs and curricula for the Digital Marketing Academy of Learning (Canada).
