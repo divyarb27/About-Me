@@ -10,6 +10,6 @@ Some highlights of my career include:
 - Designing programs and curricula for the Digital Marketing Academy of Learning (Canada).
 
 My publications include:
-<be>- AP Statistics published by McGraw Hill Publishing
+<br>- AP Statistics published by McGraw Hill Publishing
 <br>- International Business (Book reviewer) published by McGraw Hill Publishing
 <br>- The Art of Leadership (Book reviewer) published by McGraw Hill Publishing
