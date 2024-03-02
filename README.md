@@ -1,6 +1,7 @@
 
 
 
+
 My name is Divya Balachandran. I received my BSc (Statistics), MBA from Monash University, and Post Graduate Diploma in Information Technology from Central Queensland University, Australia.  I am an education expert with over 15 years of experience in higher education, specializing in roles such as Learning Designer, Curriculum Developer, Content Developer, New Program Initiator, and Localization Specialist. 
 Some highlights of my career include:
 
